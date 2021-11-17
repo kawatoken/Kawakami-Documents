@@ -1,0 +1,10 @@
+{
+  "title": "Kawa Pack Community Site",
+  "url": "",
+  "logo": {
+    "light": "/Kawakami-Inu.png",
+    "dark": "/Kawakami-Inu.png"
+  },
+  "github": "balena-io/pinejs",
+  "twitter": "@kawapack"
+}
