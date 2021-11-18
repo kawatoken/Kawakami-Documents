@@ -8,13 +8,16 @@ export default theme({
 //    subFolders: false // HTML files are generated according to the route path
   },
   router: {
-    base: '/KawaPack.github.io/'
-
+    base: '/KawaPack.github.io/',
+    trailingSlash: false
+},
+image: {
+  staticFilename: '[name][ext]'
 },
   docs: {
     primaryColor: '#E24F55'
   },
-  buildModules: ['@nuxt/image']
+  modules: ['@nuxt/image']
 //  buildModules: ['@nuxtjs/html-validator']
 })
 
