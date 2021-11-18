@@ -8,7 +8,7 @@ export default theme({
 //    subFolders: false // HTML files are generated according to the route path
   },
   router: {
-    base: '/<repository-name>/'
+    base: '/KawaPack.github.io/'
 
 },
   docs: {
