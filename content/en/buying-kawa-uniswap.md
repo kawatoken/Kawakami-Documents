@@ -1,8 +1,8 @@
 ---
-title: The Memecoin Bullrun
+title: Buying on Uniswap
 description: ''
-position: 5
-category: Blog
+position: 4
+category: How-To Guides
 ---
 
 Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossary/configuration-modules) for more information about installing and using modules in Nuxt.js.

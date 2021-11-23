@@ -1,8 +1,8 @@
 ---
-title: KawaFarm
+title: KawaFarm and Staking
 description: ''
 position: 3
-category: Documents
+category: How-To Guides
 ---
 
 Check the [Kawakami Website](https://kawatoken.io) for more information about the project.

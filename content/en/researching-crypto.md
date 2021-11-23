@@ -1,8 +1,8 @@
 ---
-title: Kawakami Hisotry
+title: Intro to Research
 description: ''
-position: 4
-category: Blog
+position: 6
+category: How-To Guides
 ---
 
 Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossary/configuration-modules) for more information about installing and using modules in Nuxt.js.
