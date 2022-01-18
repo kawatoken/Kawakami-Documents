@@ -1,26 +1,21 @@
 ---
-title: KawaFarm and Staking
+title: KawaFarm
 description: ''
 position: 3
-category: How-To Guides
+category: Tokenomics
 ---
 
-Check the [Kawakami Website](https://kawatoken.io) for more information about the project.
+Farm platform: [KawaFarm](https://farm.kawatoken.io)
 
-## Social Media
+## Native Pools
 
-- Twitter
-- Reddit
-- Instagram
-- Discord
+- No tax on deposits and withdrawls
 
-Add `@nuxtjs/xxx` dependency to your project:
+## Non-Native Pools
 
-## Contracts
+- No tax on deposits and withdrawls
 
-- Kawa
-- xKawa
-- Farm
-- Dev Wallet
+## LP Staking
 
-## Audits
+- information
+- information
