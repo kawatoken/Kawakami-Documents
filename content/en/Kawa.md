@@ -2,9 +2,8 @@
 title: Kawa
 position: 3
 category: Tokens
+fullscreen: true
 ---
-
-crazy tee hee
 
 ## ETH
 - Contract (ETH): [0x546AED37d202d607F45Cbd2b8C0CaD0D25fBe339](https://etherscan.io/token/0x546AED37d202d607F45Cbd2b8C0CaD0D25fBe339)

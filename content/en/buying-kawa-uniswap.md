@@ -3,6 +3,7 @@ title: Buying on Uniswap2
 description: ''
 position: 8
 category: How-To Guides
+fullscreen: true
 ---
 
 <div class="video-container">

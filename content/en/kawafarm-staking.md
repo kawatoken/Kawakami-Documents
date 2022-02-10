@@ -3,6 +3,7 @@ title: KawaFarm
 description: ''
 position: 5
 category: Ecosystem
+fullscreen: true
 ---
 
 # [farm.kawatoken.io](https://farm.kawatoken.io)

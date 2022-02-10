@@ -3,6 +3,7 @@ title: KawaDAO
 description: ''
 position: 5
 category: Ecosystem
+fullscreen: true
 ---
 
 # [dao.kawatoken.io](dao.kawatoken.io)

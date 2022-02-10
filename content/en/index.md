@@ -3,6 +3,8 @@ title: Home
 description: ''
 position: 1
 category: ''
+fullscreen: true
+
 ---
 
 <img src="./Kawakami_clouds.jpg" class="light-img" width="1280" height="640" alt=""/>
