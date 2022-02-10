@@ -4,6 +4,8 @@ position: 3
 category: Tokens
 ---
 
+crazy tee hee
+
 ## ETH
 - Contract (ETH): [0x546AED37d202d607F45Cbd2b8C0CaD0D25fBe339](https://etherscan.io/token/0x546AED37d202d607F45Cbd2b8C0CaD0D25fBe339)
 - Uniswap V2 LP: [0x689371e9f7833c1d6b33434dd6f121ef5a88a20b](https://etherscan.io/address/0x689371e9f7833c1d6b33434dd6f121ef5a88a20b)
