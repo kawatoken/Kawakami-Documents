@@ -1,11 +1,11 @@
 ---
 title: KawaFarm
 description: ''
-position: 3
-category: Tokenomics
+position: 5
+category: Ecosystem
 ---
 
-Farm platform: [KawaFarm](https://farm.kawatoken.io)
+# [farm.kawatoken.io](https://farm.kawatoken.io)
 
 ## Native Pools
 

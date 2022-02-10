@@ -3,19 +3,10 @@ title: Home
 description: ''
 position: 1
 category: ''
-features:
-  - KawaFarm
-  - KawaDAO
-  - KawaTool (coming)
-  - KawaSeed (coming)
 ---
 
 <img src="./Kawakami_clouds.jpg" class="light-img" width="1280" height="640" alt=""/>
 <img src="./Kawakami_clouds.jpg" class="dark-img" width="1280" height="640" alt=""/>
-
-## Ecosystem
-
-<list :items="features"></list>
 
 ---
 

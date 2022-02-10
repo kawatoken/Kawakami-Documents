@@ -1,11 +1,12 @@
 ---
-title: KawaDAO Votes
+title: KawaDAO
 description: ''
 position: 5
 category: Ecosystem
 ---
 
-Link to DAO: [KawaDAO](https://dao.kawatoken.io)
+# [dao.kawatoken.io](dao.kawatoken.io)
+
 ## DAO Votes
 
 - Vote 1: [Update $KAWA tax structure](https://twitter.com/kawakami_inu)
