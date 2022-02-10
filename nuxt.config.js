@@ -3,7 +3,9 @@ import theme from '@nuxt/content-theme-docs'
 export default theme({
   target: 'static',
   head: {
-    css: ['~/../static/style/main.css'],
+    link: [
+      {rel: 'stylesheet', type: 'text/css', href: '/style/main.css'},
+    ]
   },
   ssr: true,
   generate: {
