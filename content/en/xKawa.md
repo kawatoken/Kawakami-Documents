@@ -3,6 +3,7 @@ title: xKawa
 description: ''
 position: 4
 category: Tokens
+fullscreen: true
 ---
 
 ## ETH

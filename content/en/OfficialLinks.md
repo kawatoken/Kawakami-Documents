@@ -3,6 +3,9 @@ title: Official Links
 description: ''
 position: 2
 category: Resources
+fullscreen: true
+
+
 ---
 
 ## Social Media
