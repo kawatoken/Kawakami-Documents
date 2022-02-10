@@ -1,0 +1,1 @@
+__NUXT_JSONP__("manifest.js", {routes:["\u002F","\u002Freleases","\u002FKawa","\u002Fusing-BSC-bridge-kawa","\u002Fkawafarm-staking","\u002Fbuying-kawa-uniswap","\u002FOfficialLinks","\u002FKawaDAO","\u002FBSC-Bridge","\u002FxKawa"]})
