@@ -1,5 +1,5 @@
 ---
-title: Using the BSC Bridge
+title: Using the BSC Bridge2
 description: ''
 position: 8
 category: How-To Guides
