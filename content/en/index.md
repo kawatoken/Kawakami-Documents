@@ -7,8 +7,8 @@ fullscreen: true
 
 ---
 
-<img src="./Kawakami_clouds.jpg" class="light-img" width="1280" height="640" alt=""/>
-<img src="./Kawakami_clouds.jpg" class="dark-img" width="1280" height="640" alt=""/>
+<img src="/Kawakami_clouds.jpg" class="light-img" width="1280" height="640" alt=""/>
+<img src="/Kawakami_clouds.jpg" class="dark-img" width="1280" height="640" alt=""/>
 
 ---
 
