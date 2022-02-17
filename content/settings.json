@@ -1,10 +1,10 @@
 {
-  "title": "Kawa Pack Community Site",
-  "url": "letsbecomehuman.github.io/KawaPack.github.io/",
+  "title": "Kawakami Documentation",
+  "url": "kawatoken.github.io/Kawakami-Documents/",
   "logo": {
     "light": "Kawakami-Inu.png",
     "dark": "Kawakami-Inu.png"
   },
-  "github": "balena-io/pinejs",
-  "twitter": "@kawapack"
+  "github": "kawatoken/Kawakami-Documents",
+  "twitter": "@kawakami_io"
 }
