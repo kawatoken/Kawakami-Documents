@@ -13,7 +13,7 @@ export default theme({
 //    subFolders: false // HTML files are generated according to the route path
   },
   router: {
-    base: '/KawaPack.github.io/',
+    base: '/kawatoken.github.io/',
     trailingSlash: false
 },
 image: {
