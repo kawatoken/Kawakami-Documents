@@ -1,7 +1,6 @@
 @font-face {
-    font-family: "Visby";
-    src: local("VisbyHeavy");
-    url(~static/fonts/VisbyHeavy.otf) format("opentype")
+    font-family: "VisbyRound";
+    src: local('VisbyRound'), url("../fonts/VisbyRoundCF-Heavy.otf") format("opentype");
 }
 
 .video-container {
@@ -24,4 +23,4 @@
     height: 100%;
 }
 
-h1, h2, h3, h4 {font-family: "Visby";}
+h1, h2, h3, h4 {font-family: "VisbyRound";}
