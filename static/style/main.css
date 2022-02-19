@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: "VisbyRound";
+    src: local('VisbyRound'), url("../fonts/VisbyRoundCF-Heavy.otf") format("opentype");
+}
 
 .video-container {
     overflow: hidden;
@@ -19,3 +22,5 @@
     width: 100%;
     height: 100%;
 }
+
+h1, h2, h3, h4 {font-family: "VisbyRound";}
