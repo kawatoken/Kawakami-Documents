@@ -3,6 +3,11 @@
     src: local('VisbyRound'), url("../fonts/VisbyRoundCF-Heavy.otf") format("opentype");
 }
 
+@font-face {
+    font-family: "Moderat-Regular";
+    src: local('Moderat-Regular'), url("../fonts/Moderat-Regular.ttf") format("truetype");
+}
+
 /*
 html {
     height: 100%;
@@ -31,3 +36,4 @@ html {
 }
 
 h1, h2, h3, h4 {font-family: "VisbyRound";}
+body {font-family: "Moderat-Regular";}
