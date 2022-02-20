@@ -22,6 +22,8 @@ image: {
   docs: {
     primaryColor: '#E24F55'
   },
-  modules: ['@nuxt/image']
+  modules: ['@nuxt/image',
+  ['nuxt-cname-module', { baseUrl: 'myFunnyUrl.com' }],
+]
 //  buildModules: ['@nuxtjs/html-validator']
 })
