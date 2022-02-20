@@ -3,9 +3,11 @@
     src: local('VisbyRound'), url("../fonts/VisbyRoundCF-Heavy.otf") format("opentype");
 }
 
+/*
 html {
     height: 100%;
 }
+*/
 
 
 .video-container {
