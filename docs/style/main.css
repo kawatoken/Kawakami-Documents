@@ -8,6 +8,11 @@
     src: local('Moderat-Regular'), url("../fonts/Moderat-Regular.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: "ModeratBold";
+    src: local('ModeratBold'), url("../fonts/Moderat-Bold.ttf") format("truetype");
+}
+
 /*
 html {
     height: 100%;
