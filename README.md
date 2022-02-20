@@ -1,4 +1,4 @@
-# kawapack
+# Kawakami Documents
 
 ## Setup
 
