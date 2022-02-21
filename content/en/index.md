@@ -13,4 +13,4 @@ fullscreen: true
 
 <div class="text-3xl pt-4 pb-8 font-title">Welcome to the official documentation website for the Kawakami ecosystem.</div>
 
-<div class="text-lg">Included here is information regarding our smartcontracts, ecosystem projects and infrastructure, team members, and tutorials. If you have any questions or would like to help out please join our discord at <a href="https://discord.gg/kawakami">discord.gg/kawakami</a>.</div>
+<div class="text-lg pt-2">Included here is information regarding our smartcontracts, ecosystem projects and infrastructure, team members, and tutorials. If you have any questions or would like to help out please join our discord at <a href="https://discord.gg/kawakami">discord.gg/kawakami</a>.</div>
