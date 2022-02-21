@@ -36,6 +36,10 @@ details summary {pointer: hover;}
     margin-bottom: .25em !important;
   }
 
+  .prose ul > li {
+    position: relative;
+    padding-left: 1.25em;
+
 .video-container {
     overflow: hidden;
     position: relative;
@@ -56,5 +60,7 @@ details summary {pointer: hover;}
     height: 100%;
 }
 
-h1, h2, h3, h4 {font-family: "VisbyRound";}
+h1 {font-family: "VisbyRound";}
+h2, h3, h4 {font-familyy: "ModeratBold"}
 body {font-family: "Moderat-Regular";}
+.nuxt-content-container a {letter-spacing: 0.025em;}
