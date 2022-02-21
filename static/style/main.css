@@ -19,6 +19,7 @@ html {
 }
 */
 
+details summary {pointer: hover;}
 
 .video-container {
     overflow: hidden;

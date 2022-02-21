@@ -16,12 +16,19 @@ export default theme({
     base: '/',
     trailingSlash: false
 },
+content: {
+  markdown: {
+    remarkPlugins: ['remark-collapse']
+  }
+},
 image: {
   staticFilename: '[name][ext]'
 },
   docs: {
     primaryColor: '#E24F55'
   },
-  modules: ['@nuxt/image']
+  modules: ['@nuxt/image'],
+  
 //  buildModules: ['@nuxtjs/html-validator']
+
 })

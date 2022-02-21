@@ -11,7 +11,8 @@
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.11.0",
     "nuxt": "^2.15.8",
-    "nuxt-cname-module": "^1.1.1"
+    "nuxt-cname-module": "^1.1.1",
+    "remark-collapse": "^0.1.2"
   },
   "devDependencies": {
     "@nuxt/image": "^0.6.0",
