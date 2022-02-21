@@ -1,3 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1 {
+        @apply shadow-md;
+    }
+}
+
 @font-face {
     font-family: "VisbyRound";
     src: local('VisbyRound'), url("../fonts/VisbyRoundCF-Heavy.otf") format("opentype");
@@ -20,6 +30,11 @@ html {
 */
 
 details summary {pointer: hover;}
+
+.prose li {
+    margin-top: 0.25em !important;
+    margin-bottom: .25em !important;
+  }
 
 .video-container {
     overflow: hidden;
