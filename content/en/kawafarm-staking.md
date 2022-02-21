@@ -7,7 +7,7 @@ fullscreen: true
 ---
 <alert type="danger" class="shadow-md">
 
-<div class="text-lg dark:text-white font-bold">KAWAFARM IS CURRENTLY LOCKED DUE TO EXPLOIT</div>
+<div class="sm:text-sm text-lg dark:text-white font-bold">KAWAFARM IS CURRENTLY LOCKED DUE TO EXPLOIT</div>
 
 </alert>
 
