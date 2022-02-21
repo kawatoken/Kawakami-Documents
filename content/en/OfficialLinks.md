@@ -4,15 +4,7 @@ description: ''
 position: 2
 category: Resources
 fullscreen: true
-
-
 ---
-
-<details><summary>Open example</summary>
-
-Tada! :tada:
-
-</details>
 
 ## Social Media
 

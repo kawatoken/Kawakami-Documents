@@ -1,5 +1,5 @@
 ---
-title: Kawa v1
+title: Kawa
 position: 3
 category: Tokens
 fullscreen: true

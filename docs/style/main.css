@@ -4,7 +4,7 @@
 
 @layer base {
     h1 {
-        @apply shadow-md;
+        @apply shadow-md !imporant;
     }
 }
 
