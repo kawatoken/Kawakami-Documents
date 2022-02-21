@@ -6,7 +6,7 @@ category: Ecosystem
 fullscreen: true
 ---
 
-<span class="text-xl">Check out the DAO: [dao.kawatoken.io](dao.kawatoken.io)</span>
+Check out the DAO: [dao.kawatoken.io](dao.kawatoken.io)</span>
 
 ## DAO Votes
 
