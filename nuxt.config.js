@@ -16,11 +16,7 @@ export default theme({
     base: '/',
     trailingSlash: false
 },
-content: {
-  markdown: {
-    remarkPlugins: ['remark-collapse']
-  }
-},
+
 image: {
   staticFilename: '[name][ext]'
 },
@@ -31,4 +27,4 @@ image: {
   
 //  buildModules: ['@nuxtjs/html-validator']
 
-})
+});

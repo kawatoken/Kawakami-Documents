@@ -7,11 +7,13 @@ fullscreen: true
 
 
 ---
+
 <details><summary>Open example</summary>
 
 Tada! :tada:
 
 </details>
+
 ## Social Media
 
 - [Twitter](https://twitter.com/kawakami_inu)
