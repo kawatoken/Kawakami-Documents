@@ -11,11 +11,11 @@ fullscreen: true
 
 </alert>
 
+<span class="text-2xl font-bold">Due to our recent <a href="https://kawatoken.medium.com/kawakami-kawa-hack-relaunch-faq-91cc6eb6f4e3">farm exploit</a> trading and development of $xKAWA is on hold. Governance power is being tranfered to the $KAWA token upon relaunch.</span>
+
 ## ETH
 
-- Contract: [0xdc386452f9ffda7f0d2940e5c60dc0f9469b1097](https://etherscan.io/token/0xdc386452f9ffda7f0d2940e5c60dc0f9469b1097)
-
-## Tokenomics
-
-- 5% transaction tax to development and marketing wallet
-- 2% reflections
+<span><ul>
+<li class="line-through">Contract: <a href="https://etherscan.io/token/0xdc386452f9ffda7f0d2940e5c60dc0f9469b109">0xdc386452f9ffda7f0d2940e5c60dc0f9469b109</a></li>
+</ul>
+</span>
