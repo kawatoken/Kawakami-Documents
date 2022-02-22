@@ -23,14 +23,6 @@
     src: local('ModeratBold'), url("../fonts/Moderat-Bold.ttf") format("truetype");
 }
 
-/*
-html {
-    height: 100%;
-}
-*/
-
-details summary {pointer: hover;}
-
 .prose li {
     margin-top: 0.25em !important;
     margin-bottom: .25em !important;
@@ -38,7 +30,7 @@ details summary {pointer: hover;}
 
   .prose ul > li {
     position: relative;
-    padding-left: 1.25em;
+    padding-left: 1.25em;}
 
 .video-container {
     overflow: hidden;
@@ -60,7 +52,7 @@ details summary {pointer: hover;}
     height: 100%;
 }
 
-h1 {font-family: "VisbyRound";}
-h2, h3, h4 {font-familyy: "ModeratBold"}
-body {font-family: "Moderat-Regular";}
+h1 {font-family: "VisbyRound" !important;}
+h2, h3, h4 {font-familyy: "ModeratBold" !important;}
+body {font-family: "Moderat-Regular" !important;}
 .nuxt-content-container a {letter-spacing: 0.025em;}
