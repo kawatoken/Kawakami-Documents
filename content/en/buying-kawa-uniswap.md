@@ -1,5 +1,5 @@
 ---
-title: Buying on Uniswap2
+title: Buying on Uniswap
 description: ''
 position: 8
 category: How-To Guides
