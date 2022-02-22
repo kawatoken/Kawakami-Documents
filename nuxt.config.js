@@ -16,6 +16,7 @@ export default theme({
     base: '/',
     trailingSlash: false
 },
+pwa: {     icon: {source: '~/static/favicon.ico'}   },
 
 image: {
   staticFilename: '[name][ext]'
