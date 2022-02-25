@@ -6,7 +6,7 @@ category: Ecosystem
 fullscreen: true
 ---
 
-Check out the DAO: [dao.kawatoken.io](dao.kawatoken.io)</span>
+Check out the DAO: [dao.kawakami.io](dao.kawakami.io)</span>
 
 ## DAO Votes
 

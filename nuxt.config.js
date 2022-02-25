@@ -24,7 +24,8 @@ image: {
   docs: {
     primaryColor: '#E24F55'
   },
-  modules: ['@nuxt/image'],
+  modules: ['@nuxt/image',
+    'nuxt-clipboard2'],
   
 //  buildModules: ['@nuxtjs/html-validator']
 
