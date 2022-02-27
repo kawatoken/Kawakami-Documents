@@ -13,7 +13,7 @@ fullscreen: true
 ## Marketing and Ownership Wallets
 
 - Contract Owner: [0x93837577c98e01cfde883c23f64a0f608a70b90f](https://etherscan.io/address/0x93837577c98e01cfde883c23f64a0f608a70b90f)<Clipboard :text="addr3" class="pl-2 bottom-0 absolute" />
-- Marketing Wallet: [0xd0b84202bd02eb1b9f62b30de1d8985f65d8dfb3](https://etherscan.io/address/0xd0b84202bd02eb1b9f62b30de1d8985f65d8dfb3)<Clipboard :text="marketing" class="pl-2 bottom-0 absolute" />
+- Marketing Wallet: [0xd0b84202bd02eb1b9f62b30de1d8985f65d8dfb3](https://etherscan.io/address/0xd0b84202bd02eb1b9f62b30de1d8985f65d8dfb3)<Clipboard :text="addr4" class="pl-2 bottom-0 absolute" />
 
 ## Audit
 
