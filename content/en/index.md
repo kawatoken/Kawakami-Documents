@@ -23,7 +23,7 @@ features2:
 
 <span class="text-3xl pb-0">Features</span>
 
-<div class="grid grid-cols-2 gap-4 pb-4">
-<list :items="features" class="pl-4"></list>
-<list :items="features2" class="pl-4"></list>
+<div class="grid grid-cols-2 gap-2 pb-4">
+<list :items="features" class="pl-2"></list>
+<list :items="features2" class="pl-2"></list>
 </div>
