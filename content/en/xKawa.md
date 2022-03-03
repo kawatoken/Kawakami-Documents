@@ -2,16 +2,12 @@
 title: xKawa
 description: ''
 position: 4
-category: Tokens
+category: Ecosystem
 fullscreen: true
 ---
 <alert type="danger" class="shadow-md">
-
-<div class="sm:text-sm text-lg dark:text-white font-bold">TRADING ON $xKAWA IS CURRENTLY PAUSED</div>
-
+<div class="sm:text-sm lg:text-lg dark:text-white font-bold">$xKAWA TRADING IS CURRENTLY PAUSED DUE TO RECENT <a href="https://kawatoken.medium.com/kawakami-kawa-hack-relaunch-faq-91cc6eb6f4e3">FARM EXPLOIT</a></div>
 </alert>
-
-<span class="text-2xl font-bold">Due to our recent <a href="https://kawatoken.medium.com/kawakami-kawa-hack-relaunch-faq-91cc6eb6f4e3">farm exploit</a> trading and development of $xKAWA is on hold. Governance power is being tranfered to the $KAWA token upon relaunch.</span>
 
 ## ETH
 

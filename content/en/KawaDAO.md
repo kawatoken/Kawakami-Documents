@@ -6,7 +6,13 @@ category: Ecosystem
 fullscreen: true
 ---
 
-Check out the DAO: [dao.kawakami.io](dao.kawakami.io)</span>
+<alert type="warning" class="shadow-md">
+<div class="sm:text-sm lg:text-lg dark:text-white font-bold">$xKAWA IS <a href="https://kawatoken.medium.com/kawakami-kawa-hack-relaunch-faq-91cc6eb6f4e3">FARM EXPLOIT</a></div>
+</alert>
+
+<alert type="link" class="shadow-md">
+<div class="sm:text-sm lg:text-lg dark:text-white font-bold">Check out the DAO at <a href="dao.kawakami.io">dao.kawakami.io</a></div>
+</alert>
 
 ## DAO Votes
 

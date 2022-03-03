@@ -1,0 +1,9 @@
+query {
+    query characters {
+        characters {
+            id
+            name
+            status
+        }
+    }
+    

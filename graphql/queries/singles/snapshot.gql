@@ -1,0 +1,10 @@
+query {
+  space(id: "yam.eth") {
+    id
+    name
+    about
+    network
+    symbol
+    members
+  }
+}
