@@ -6,6 +6,11 @@ category: Resources
 fullscreen: true
 ---
 
+
+<rickmorty v-for="(character, index) in characters"
+    :key="characters.id" :index="index"> woot woot </rickmorty>
+
+
 ## Token Contract
 
 - Contract (ETH): [0x5552e5a89a70cb2ef5adbbc45a6be442fe7160ec](https://etherscan.io/address/0x5552e5a89a70cb2ef5adbbc45a6be442fe7160ec)<Clipboard :text="kawa" class="pl-2 bottom-0 absolute" />

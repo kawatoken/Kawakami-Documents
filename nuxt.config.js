@@ -25,7 +25,15 @@ image: {
     primaryColor: '#E24F55'
   },
   modules: ['@nuxt/image',
-    'nuxt-clipboard2'],
+    'nuxt-clipboard2',
+    '@nuxtjs/apollo'],
+  apollo: {
+    clientConfigs: {
+      default: {
+        httpEndpoint: "https://rickandmortyapi.com/graphql"
+      }
+  }
+  }
   
 //  buildModules: ['@nuxtjs/html-validator']
 
