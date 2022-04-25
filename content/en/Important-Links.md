@@ -2,14 +2,9 @@
 title: Important Links
 description: ''
 position: 2
-category: Resources
+category: 
 fullscreen: true
 ---
-
-
-<rickmorty v-for="(character, index) in characters"
-    :key="characters.id" :index="index"> woot woot </rickmorty>
-
 
 ## Token Contract
 

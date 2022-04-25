@@ -13,7 +13,7 @@ The v3 of the $KAWA token contract was launched on February 23, 2022. Learning f
 | Contract/token name | Kawakami |
 | Ticker | KAWA |
 | Network | Ethereum
-| Contract address | 0x5552e5a89a70cb2ef5adbbc45a6be442fe7160ec |
+| Contract address | <p> 0x5552e5a89a70cb2ef5adbbc45a6be442fe7160ec </p> |
 | Liquidity pair address | 0x71ab4e3a48d74a66e1cd4dc5ae74836b713d7378 |
 | Launch date | February 23, 2022 |
 | Total supply | 999,999,999,999 |
